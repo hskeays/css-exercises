@@ -1,0 +1,19 @@
+.a {
+    background-color: #FFA0A0;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.a.b {
+    font-size: 24px;
+}
+
+#z {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#y {
+    background-color: #4DFF00;
+    font-size: 24px;
+    font-weight: bold;
+}
